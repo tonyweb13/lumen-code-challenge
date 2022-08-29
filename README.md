@@ -66,7 +66,7 @@ contain:
     <li>Setup your .env file </li>
     <li>Create database and run <b>php artisan migrate</b></li>
     <li>Run and enter <b>php -S localhost:8000 -t public</b> in your terminal</li>
-    <li>Run <h2>php artisan import:customer</h2> in your terminal</li>
+    <li>Run <b style="background-color:yellow">php artisan import:customer</b> in your terminal</li>
 </ul>
 
 <h1>Happ Coding!!!</h1>
