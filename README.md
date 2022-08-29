@@ -64,12 +64,12 @@ contain:
     <li>Git clone my repository in your terminal</li>
     <li>Run composer install</li>
     <li>Setup your .env file </li>
-    <li>Create database and run `php artisan migrate`</li>
-    <li>Run and enter `php -S localhost:8000 -t public` in your terminal</li>
-    <li>Run `php artisan import:customer` in your terminal</li>
+    <li>Create database and run <b>php artisan migrate</b></li>
+    <li>Run and enter <b>php -S localhost:8000 -t public</b> in your terminal</li>
+    <li>Run <h2>php artisan import:customer</h2> in your terminal</li>
 </ul>
 
-<b>Happ Coding!!! :)</b>
+<h1>Happ Coding!!!</h1>
 
 ## License  ##
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
