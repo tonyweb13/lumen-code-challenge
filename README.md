@@ -58,5 +58,18 @@ contain:
     <li>The database layer should be Doctrine, Laravel Doctrine</li>
 </ul>
 
+# Running to localhost (run in any server setup)
+
+<ul>
+    <li>Git clone my repository in your terminal</li>
+    <li>Run composer install</li>
+    <li>Setup your .env file </li>
+    <li>Create database and run `php artisan migrate`</li>
+    <li>Run and enter `php -S localhost:8000 -t public` in your terminal</li>
+    <li>Run `php artisan import:customer` in your terminal</li>
+</ul>
+
+<b>Happ Coding!!! :)</b>
+
 ## License  ##
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
