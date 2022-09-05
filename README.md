@@ -55,7 +55,6 @@ contain:
     <li>The customer password should be hashed using the md5 algorithm.</li>
     <li>The database should only store the information that is needed for this task.</li>
     <li>In your tests make sure to not to request the real third party API.</li>
-    <li>The database layer should be Doctrine, Laravel Doctrine</li>
 </ul>
 
 # Running to localhost (run in any server setup)
